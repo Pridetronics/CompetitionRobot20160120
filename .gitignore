@@ -1,0 +1,7 @@
+# all backup files
+*.*~ 
+
+# everything under these directories
+/bin/
+/build/
+/dist/
